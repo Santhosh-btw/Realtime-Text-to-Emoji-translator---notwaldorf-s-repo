@@ -4314,6 +4314,17 @@
     "char": null,
     "category": "_custom"
   },
+
+  
+  "drunk":  {"keywords":["drunk", "hungover", "aroused"], "char": "🥴", "category" : "_custom"},
+  "hot":  {"keywords":["hot", "heat", "fire"], "char": "🥵", "category" : "_custom"},
+  "annoy":  {"keywords":["annoy", "upsidedown", "irritate", "tease"], "char": "🙃", "category" : "_custom"},
+  "fool":  {"keywords":["foolish", "fool", "troll", "clown"], "char": "🤡", "category" : "_custom"},
+  "cap":  {"keywords":["lie", "cap", "lieing"], "char": "🧢", "category" : "_custom"},
+  "shy":  {"keywords":["shy", "introvert", "fingers pointing", "pointing", "UwU", "kawai", "kawaii"], "char": "👉👈", "category" : "_custom"},
+
+
+
   "keys": [
     "grinning",
     "grin",
@@ -4385,7 +4396,6 @@
     "footprints",
     "bust_in_silhouette",
     "busts_in_silhouette",
-    "baby",
     "boy",
     "girl",
     "man",
@@ -4402,7 +4412,6 @@
     "man_with_turban",
     "older_man",
     "older_woman",
-    "baby",
     "construction_worker",
     "princess",
     "guardsman",
